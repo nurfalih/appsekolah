@@ -6,3 +6,4 @@ Website by Nurfalih and Hosting by Streamlit
 """)
 
 st.subheader("Sekolah Terbaik Saat ini")
+st,image(![](../../Downloads/SMAN1Tangerang..jpg))
