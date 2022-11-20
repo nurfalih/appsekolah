@@ -4,3 +4,5 @@ st.write("""
 # KUMPULAN SEKOLAH TERBAIK SMP DAN SMA
 Website by Nurfalih and Hosting by Streamlit
 """)
+
+st.subheader("Sekolah Terbaik Saat ini")
