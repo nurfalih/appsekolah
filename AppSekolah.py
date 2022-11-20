@@ -7,7 +7,7 @@ Website by Nurfalih and Hosting by Streamlit
 """)
 
 st.subheader("Sekolah Terbaik Saat ini")
-st.header("SMAN1 Tangerang Selatan")
-st.header("SMAS Marsudirini")
-st.header("SMAN 1 Bekasi")
-st.header("SMAN 3 Bekasi")
+st.button("SMAN1 Tangerang Selatan")
+st.button("SMAS Marsudirini")
+st.button("SMAN 1 Bekasi")
+st.button("SMAN 3 Bekasi")
