@@ -8,6 +8,6 @@ Website by Nurfalih and Hosting by Streamlit
 
 st.subheader("Sekolah Terbaik Saat ini")
 from PIL import Image
-image = Image.open('SMAN1Tangerang.jpg')
+image = Image.open('![](../../Downloads/SMAN1Tangerang..jpg)')
 
 st.image(image, caption='Sekolah SMAN 1 Tangerang Selatan')
