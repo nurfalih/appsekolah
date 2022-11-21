@@ -10,7 +10,7 @@ option = st.selectbox(
     'Tipe sekolah yang kamu sukai',
     ('Swasta', 'Negeri', 'International'))
 
-st.write('You selected:', option)
+st.write('Anda memilih sekolah:', option)
 
 st.subheader("Sekolah Terbaik Saat ini")
 if st.button('SMAN1 Tangerang Selatan'):
